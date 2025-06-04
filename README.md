@@ -30,9 +30,5 @@ make               # Builds both minishell_eng and minishell_fr
 - Built-in commands: `cd`, `dir`
 - Pipeline support: `|`
 - Background execution: `&`
-EOF
 
-git add README.md
-git commit -m "Add project README"
-git push
 

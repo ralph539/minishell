@@ -1,4 +1,5 @@
 # Minishell
+
 A minimalist Unix shell implemented in C. Developed by Ralph Khairallah as part of the Operating Systems course.
 
 ## 🌐 Languages
